@@ -1,6 +1,6 @@
 {
   "name": "cogent",
-  "version": "0.4.3-fix-redirects",
+  "version": "0.4.4",
   "description": "Simpler HTTP requests using co",
   "repository": "cojs/cogent",
   "author": {
@@ -14,7 +14,7 @@
     "generator-supported": "~0.0.1",
     "debug": "*",
     "netrc": "~0.1.3",
-    "proxy-agent": "^1.1.0",
+    "proxy-agent": "1.0.0",
     "write-to": "^1.0.0",
     "raw-body": "^1.1.2",
     "statuses": "^1.0.2"
